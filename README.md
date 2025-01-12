@@ -20,7 +20,6 @@ Spots is a social media web application where users can create a profile, share 
 _Application supports multiple viewports with responsive design_
 
 - [Desktop](./images/demo/Desktop.png)
-- [Tablet](./images/demo/Tablet.png)
 - [Mobile](./images/demo/Mobile.png)
 
 ### **Deployment**
