@@ -1,23 +1,30 @@
-# Project 3: Spots
+# _Project 3_: **_Spots_**
 
-##
+---
+
+### **Function**
+
+Spots is a social media web application where users can create a profile, post pictures and interact with other user posts.
+
+---
 
 ### Overview
 
-- Intro
-- Figma
-- Images
+- HTML 5
+- CSS 3
+- Flexbox
+- Grid layouts
+- Responsive design
+- Media queries
 
-**Intro**
+### **Screenshots**
 
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+_Application supports multiple viewports with responsive design_
 
-**Figma**
+- [Desktop](./images/demo/Desktop.png)
+- [Tablet](./images/demo/Tablet.png)
+- [Mobile](./images/demo/Mobile.png)
 
-- [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
+### **Github**
 
-**Images**
-
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
-
-Good luck and have fun!
+- [Link to my project on Github](https://github.com/ZackJ-SE/se_project_spots)
