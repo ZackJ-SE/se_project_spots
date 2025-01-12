@@ -6,7 +6,9 @@
 }
 
 .footer__copyright {
+  color: #212121;
   opacity: 70%;
+  margin: 0;
   font-size: 16px;
   font-weight: 400;
   line-height: 1;

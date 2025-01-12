@@ -9,6 +9,7 @@
   border-radius: 8px;
   width: 190px;
   height: 190px;
+  object-fit: cover;
 }
 
 .profile__column {
@@ -17,6 +18,7 @@
 }
 
 .profile__name {
+  color: #212121;
   margin: 0 0 12px;
   font-size: 32px;
   font-weight: 500;
@@ -31,6 +33,7 @@
 }
 
 .profile__description {
+  color: #212121b2;
   margin: 0;
   font-size: 16px;
   font-weight: 500;
@@ -45,6 +48,7 @@
 }
 
 .profile__edit-button {
+  color: #212121;
   opacity: 70%;
   margin-top: auto;
   margin-right: auto;
@@ -76,9 +80,12 @@
 }
 
 .profile__add-button:hover {
-  background-color: #212121;
   opacity: 80%;
   cursor: pointer;
+}
+
+.button__text {
+  padding-left: 8px;
 }
 
 @media screen and (max-width: 627px) {
