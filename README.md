@@ -2,13 +2,11 @@
 
 ---
 
-### **Function**
+## **Function**
 
-Spots is a social media web application where users can create a profile, post pictures and interact with other user posts.
+Spots is a social media web application where users can create a profile, share images and interact with other users.
 
----
-
-### Overview
+### **Overview**
 
 - HTML 5
 - CSS 3
@@ -25,6 +23,8 @@ _Application supports multiple viewports with responsive design_
 - [Tablet](./images/demo/Tablet.png)
 - [Mobile](./images/demo/Mobile.png)
 
-### **Github**
+### **Deployment**
 
-- [Link to my project on Github](https://github.com/ZackJ-SE/se_project_spots)
+_this page is deployed at Github pages_
+
+- [Github link](https://zackj-se.github.io/se_project_spots/)
