@@ -69,7 +69,7 @@
   margin-left: auto;
   margin-top: auto;
   padding: 0;
-  width: 149px;
+  width: 157px;
   height: 52px;
   background-color: #212121;
   color: #fcf5e5;
@@ -84,7 +84,7 @@
   cursor: pointer;
 }
 
-.button__text {
+.profile__button-text {
   padding-left: 8px;
 }
 
