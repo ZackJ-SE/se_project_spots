@@ -1,4 +1,4 @@
-# _Project 3_: **_Spots_**
+# **_Spots_**
 
 ---
 
@@ -27,3 +27,7 @@ _Application supports multiple viewports with responsive design_
 _this page is deployed at Github pages_
 
 - [Github link](https://zackj-se.github.io/se_project_spots/)
+
+### **VIdeo**
+
+- [Video link](https://drive.google.com/file/d/1TH82ihLYBfNhXJwrjjtKU3fwhkACyiN4/view?usp=sharing)
