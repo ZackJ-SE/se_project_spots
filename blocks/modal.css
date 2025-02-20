@@ -38,6 +38,7 @@
   background-image: url(../images/close_icon.svg);
   background-position: center;
   opacity: 40%;
+  background-color: transparent;
 }
 
 .modal__close-button:hover {
@@ -62,7 +63,7 @@
   font-size: 16px;
   font-weight: 500;
   line-height: 1.1;
-  opacity: 70%;
+  color: #212121b2;
 }
 
 .modal__input {
@@ -113,6 +114,7 @@
   .modal__title {
     font-size: 20px;
     margin: 10px 0 34px;
+    line-height: 1;
   }
 
   .modal__label {
@@ -121,6 +123,7 @@
 
   .modal__input {
     font-size: 16px;
+    line-height: 1;
   }
 
   .modal__submit-button {
